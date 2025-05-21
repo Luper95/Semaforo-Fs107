@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.pole {
+  background-color: black;
+  width: 20px;
+  height: 50px;
+}
